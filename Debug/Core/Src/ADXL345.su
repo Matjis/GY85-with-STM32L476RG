@@ -1,0 +1,5 @@
+ADXL345.c:13:9:ADXL345_Initialise	24	static
+ADXL345.c:58:19:ADXL345_ReadAccelerations	32	static
+ADXL345.c:95:19:ADXL345_ReadRegister	40	static
+ADXL345.c:100:19:ADXL345_ReadRegisters	40	static
+ADXL345.c:105:19:ADXL345_WriteRegisters	40	static
